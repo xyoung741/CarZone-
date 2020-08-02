@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding 0; 
+}
+
+.thumbnail img {
+	width: 100%; 
+}
+
+.thumbnail {
+	padding: 0; 
+}
+
+.thumbnail .caption-full {
+	padding: 9px; 
+}
+
+#delete-form {
+	display: inline; 
+}
+
+.delete-form {
+	display: inline; 
+}
+
+.jumbotron {
+	margin-bottom: 20px;
+	background-image: url('https://images.unsplash.com/photo-1471479917193-f00955256257?ixlib=rb-1.2.1&auto=format&fit=crop&w=1448&q=80'); 
+	background-size: cover; 
+	color: white; 
+}
+
+/* .navbar {
+	background-color: #333333; 
+	color: white; 
+} */
